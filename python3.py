@@ -1,6 +1,6 @@
 import base64
 
-hidden_creds = "QUtJQTMzVkpBV09aSEEyUjNSSEsKaDRBQTBEN28xOUlrc1FMSVZLZDRsQnhkeHRnTlA3LzJFcGtCaGh6RQ=="
+hidden_creds = "QUtJQTRTRE5WVDdaSzc2TDIyV0cKUGNYQXArRkRTOTlWdnJybEErZEdZKzl2bkEzbVIvZFU1NFloM2l2eg=="
 
 def find_hidden_creds():
     print("Searching for hidden credentials...")
